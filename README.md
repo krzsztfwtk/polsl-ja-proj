@@ -13,6 +13,10 @@ Zawiera solucję Visual Studio 2022 IDE, która zawiera 4 projekty:
 - `CppDll/` – biblioteka DLL w języku C++
 - `PythonGUI/` – graficzny interfejs użytkownika napisany w Pythonie
 
+### Uwaga
+
+**Solucja jest w taki sposób skonfigurowana, że kompilacja całości przez `[Crtl+Shift+B]` działa tylko w trybie `release`.**
+
 ## Dokumentacja projektu
 
 ### [Karta projektu](./docs/karta_projektu.pdf)
