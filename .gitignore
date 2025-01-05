@@ -1,0 +1,45 @@
+# Build
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.sdf
+*.opensdf
+*.ipch
+*.tlog
+*.log
+*.cache
+*.pch
+*.tmp
+Debug/
+Release/
+x64/
+.vs/
+temp/
+
+# Visual Studio 2022 IDE
+*.user
+*.slnLaunch.user
+*.ncb
+*.opendb
+
+CMakeLists.txt.user
+CMakeCache.txt
+cmake-build-debug/
+cmake-build-release/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Doxygen
+docs/
+html/
+latex/
+man/
+xml/
